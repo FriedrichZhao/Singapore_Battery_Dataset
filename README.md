@@ -14,3 +14,20 @@ In this study, we conducted data collection and prepared an in-house battery-typ
 10. Others.
 
 For those outside this scope, we introduce a general category termed as "Others". A group for miscellaneous other battery types with 50 images is included and they are used in model performance evaluation. Altogether we have ∼500 images. All images undergo data cleaning and pre-processing.
+
+## Citation
+
+If you find this work helpful, please consider to star this repository and cite our paper:
+
+*BatSort: Enhanced Battery Classification with Transfer Learning for Battery Sorting and Recycling* [[arXiv: 2404.05802](https://arxiv.org/abs/2404.05802)]
+
+```
+@misc{zhao2024batsort,
+      title={BatSort: Enhanced Battery Classification with Transfer Learning for Battery Sorting and Recycling}, 
+      author={Yunyi Zhao and Wei Zhang and Erhai Hu and Qingyu Yan and Cheng Xiang and King Jet Tseng and Dusit Niyato},
+      year={2024},
+      eprint={2404.05802},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE}
+}
+```
